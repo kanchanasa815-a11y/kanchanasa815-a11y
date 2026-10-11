@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::
 Passionate Computer Science student with a strong interest in Python, Artificial Intelligence, and Machine Learning. Seeking opportunities to apply my technical skills, solve real-world problems, and grow as a software developer.
 
 ![](https://komarev.com/ghpvc/?username=kanchanasa815-a11y&color=blue)
